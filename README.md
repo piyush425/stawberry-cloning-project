@@ -49,15 +49,14 @@ All pages are not responsive yet , those pages are might not be properly visible
 (Recomended Resolution: 1366 x 768 )
 
 ## Team Members and Contributors 😇 :
+- 👤 Piyush Ranjan
+  Github: https://github.com/piyush425
 
 - 👤 Mohit Maurya
   Github: https://github.com/MohitMaurya
   
 - 👤 Akhil Kumar Adepu
   Github: https://github.com/akhiladepu
-  
-- 👤 Piyush Ranjan
-  Github: https://github.com/piyush425
   
 - 👤 Thakoor Chandan
   Github: https://github.com/thakoorchandan
