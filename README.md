@@ -37,6 +37,10 @@ All the image and icon links have been taken from the main website ( https://str
   
 ![Checkout Page](https://user-images.githubusercontent.com/35700009/129468699-71e1556a-0c7c-48b3-a5cf-42b0135686e1.png)
 
+-video:
+
+https://drive.google.com/file/d/1OuHTGN6KSaJe-MAK_3fSdI4CZHLDiN-y/view?usp=sharing
+
 ### End Notes 📑
 In this project we were tried to achieve a near to perfect clone of the original website as much as possible with very limited knowledge of javascript & css. This entire journey of has given us experiences and we have learned lots of things by applying to the real website and it gave us a lot of confidence. If we have more time we can able to add more products.
 
